@@ -24,10 +24,11 @@ Coding mainly with Terraform, Python, and Bash.
 
 ### Cloud & Infrastructure
 - ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS**
-  - ![Route 53](https://img.icons8.com/color/48/000000/route-53.png) **Route 53**
-  - ![EC2](https://img.icons8.com/color/48/000000/amazon-ec2.png) **EC2**
-  - ![S3](https://img.icons8.com/color/48/000000/amazon-s3.png) **S3**
-  - ![CloudFormation](https://img.icons8.com/color/48/000000/cloudformation.png) **CloudFormation**
+- ![Route 53](https://img.icons8.com/color/48/000000/dns.png) **Route 53**
+- ![EC2](https://img.icons8.com/color/48/000000/cloud.png) **EC2**
+- ![S3](https://img.icons8.com/color/48/000000/storage.png) **S3**
+- ![CloudFormation](https://img.icons8.com/color/48/000000/deployment.png) **CloudFormation**
+
 
 ### Version Control
 - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
