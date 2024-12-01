@@ -13,8 +13,8 @@
 </p>
 
 ## 🔍 About Me
-Computer Scientist with an interest in Blockchain, DeFi, Linux, and AWS. 
-Coding mainly with Terraform, Python, and Bash.
+Computer Scientist with a passion for Blockchain, DeFi, Linux, and AWS. Currently working as an AWS Cloud Engineer.
+Coding primarily with Terraform, Python, and Bash.
 
 ## 🛠️ Technologies & Tools
 
@@ -22,13 +22,11 @@ Coding mainly with Terraform, Python, and Bash.
 - ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
 - ![Bash](https://img.icons8.com/color/48/000000/console.png) **Bash**
 
-### Cloud & Infrastructure
-- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS**
-- ![Route 53](https://img.icons8.com/color/48/000000/dns.png) **Route 53**
-- ![EC2](https://img.icons8.com/color/48/000000/cloud.png) **EC2**
-- ![S3](https://img.icons8.com/color/48/000000/storage.png) **S3**
-- ![CloudFormation](https://img.icons8.com/color/48/000000/deployment.png) **CloudFormation**
-
+### Cloud & Infrastructure  
+- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS**  
+- ![Vultr]() **Vultr**  
+- ![Namecheap](https://img.icons8.com/color/48/000000/domain.png) **Namecheap**  
+- ![Cloudflare](https://img.icons8.com/color/48/000000/cloudflare.png) **Cloudflare**  
 
 ### Version Control
 - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
@@ -48,8 +46,13 @@ Coding mainly with Terraform, Python, and Bash.
 - ![Discord API](https://img.icons8.com/color/48/000000/discord-logo.png) **Discord API**
 - ![Slack API](https://img.icons8.com/color/48/000000/slack-new.png) **Slack API**
 
+### CI/CD  
+- ![GitHub Actions](https://img.icons8.com/color/48/000000/github.png) **GitHub Actions**  
+- ![AWS CodeCommit](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS CodeCommit**  
+
 ## 📫 How to Reach Me
 - [GitHub Profile](https://github.com/p3tr1nn1)
+- [Nostr](https://primal.net/p/npub1095r7wwn34nvvsj0tm5qa7p495l787qn24ppl2jskgdfdlraqktsd60ujj)
 
 ## GitHub Stats
 <p align="center">
