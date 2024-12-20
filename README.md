@@ -13,46 +13,75 @@
 </p>
 
 ## 🔍 About Me
-Computer Scientist with a passion for Blockchain, DeFi, Linux, and AWS. Currently working as an AWS Cloud Engineer.
+Computer Scientist currently working as an AWS Cloud Engineer.
 Coding primarily with Terraform, Python, and Bash.
 
 ## 🛠️ Technologies & Tools
 
-### Programming Languages
-- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
-- ![Bash](https://img.icons8.com/color/48/000000/console.png) **Bash**
+### Cloud & Infrastructure
+<details>
 
-### Cloud & Infrastructure  
 - ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS**  
 - ![Vultr]() **Vultr**  
 - ![Namecheap](https://img.icons8.com/color/48/000000/domain.png) **Namecheap**  
-- ![Cloudflare](https://img.icons8.com/color/48/000000/cloudflare.png) **Cloudflare**  
+- ![Cloudflare](https://img.icons8.com/color/48/000000/cloudflare.png) **Cloudflare**
+
+</details>
+
+### Programming Languages
+<details>
+
+- ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
+
+- ![Bash](https://img.icons8.com/color/48/000000/console.png) **Bash**
+
+</details>
+
+
 
 ### Version Control
+<details>
+
 - ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
+</details>
 
 ### Automation & Configuration Management
+<details>
+
 - ![Terraform](https://img.icons8.com/color/48/000000/terraform.png) **Terraform**
 - ![Ansible](https://img.icons8.com/color/48/000000/ansible.png) **Ansible**
+</details>
 
 ### Operating Systems
+<details>
+
 - ![Ubuntu](https://img.icons8.com/color/48/000000/ubuntu.png) **Ubuntu**
 - ![Linux Mint](https://img.icons8.com/color/48/000000/linux-mint.png) **Linux Mint**
 - ![Raspbian](https://img.icons8.com/color/48/000000/raspberry-pi.png) **Raspbian**
 - ![Amazon Linux](https://img.icons8.com/color/48/000000/amazon.png) **Amazon Linux**
+</details>
 
 ### Databases & APIs
+<details>
+
 - ![SQLite](https://img.icons8.com/color/48/000000/sql.png) **SQLite**
 - ![Discord API](https://img.icons8.com/color/48/000000/discord-logo.png) **Discord API**
 - ![Slack API](https://img.icons8.com/color/48/000000/slack-new.png) **Slack API**
+</details>
 
-### CI/CD  
+### CI/CD
+<details>
+
 - ![GitHub Actions](https://img.icons8.com/color/48/000000/github.png) **GitHub Actions**  
 - ![AWS CodeCommit](https://img.icons8.com/color/48/000000/amazon-web-services.png) **AWS CodeCommit**  
+</details>
 
 ## 📫 How to Reach Me
+<details>
+
 - [GitHub Profile](https://github.com/p3tr1nn1)
 - [Nostr](https://primal.net/p/npub1095r7wwn34nvvsj0tm5qa7p495l787qn24ppl2jskgdfdlraqktsd60ujj)
+</details>
 
 ## GitHub Stats
 <p align="center">
